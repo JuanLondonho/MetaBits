@@ -1,0 +1,14 @@
+h1 {
+  background: -webkit-linear-gradient(white,red);
+  background-clip: border-box;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  color: tomato;  
+  font-family: "Consolas", monospace;
+}
+
+#meta{
+  display:flex;
+  justify-content: center;
+  align-items:center;
+}
